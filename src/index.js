@@ -1,5 +1,5 @@
 'use strict'
-// import example from './images/example.png'
+import './styles/main.css'
 
 const divWrapper = document.getElementById('wrapper');
 let inputText = document.getElementById('typeText');
